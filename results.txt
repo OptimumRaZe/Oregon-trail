@@ -1,0 +1,12 @@
+
+Player: 1, miles traveled: 1151, food remaining: 0, cash remaining: -8
+Player: Freddy, miles traveled: 0, food remaining: 1000, cash remaining: 890
+Player: 1, miles traveled: 0, food remaining: 100, cash remaining: 1390
+Player: 1, miles traveled: 0, food remaining: 0, cash remaining: 1400
+Player: 1, miles traveled: 0, food remaining: 868, cash remaining: 740
+Player: 1, miles traveled: 0, food remaining: 0, cash remaining: 1180
+Player: 1, miles traveled: 0, food remaining: 0, cash remaining: 755
+Player: 1, miles traveled: 0, food remaining: 0, cash remaining: 1480
+Player: 1, miles traveled: 0, food remaining: 55, cash remaining: 755
+Player: 1, miles traveled: 506, food remaining: 0, cash remaining: 745
+Player: 1, miles traveled: 989, food remaining: 0, cash remaining: 82.5
